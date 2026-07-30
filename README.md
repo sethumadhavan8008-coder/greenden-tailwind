@@ -4,15 +4,6 @@ Greenden is a modern, responsive plant store website built using **HTML** and **
 
 ---
 
-## 🚀 Live Demo
-
-👉 Add your GitHub Pages link here after deployment.
-
-Example:
-https://yourusername.github.io/greenden/
-
----
-
 ## 📌 Features
 
 - 🌱 Fully Responsive Design
@@ -78,25 +69,6 @@ Greenden/
 
 ---
 
-## 💻 Getting Started
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/greenden.git
-```
-
-2. Open the project folder
-
-```bash
-cd greenden
-```
-
-3. Open `index.html` in your browser.
-
-No installation required.
-
----
 
 ## 🎯 Future Improvements
 
