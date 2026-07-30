@@ -118,7 +118,7 @@ This project is created for learning and educational purposes.
 
 **Sethu Madhavan**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/sethumadhavan8008-coder
 
 ---
 
